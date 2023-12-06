@@ -1,0 +1,8 @@
+https://125.45.165.20:18080/sd-loginthird/third/ssologin?username=zhxy_admin&timestamp=1697765009348&auid=A5AD9F87CF59805CECAF2A95D44CF6E
+http://112.124.33.7/sd-loginthird/third/ssologin?username=zhxy_admin&timestamp=1697765009348&auid=A5AD9F87CF59805CECAF2A95D44CF6E
+https://59.57.251.83:18080/sd-loginthird/third/ssologin?username=zhxy_admin&timestamp=1697765009348&auid=A5AD9F87CF59805CECAF2A95D44CF6E
+https://www.wonedu.com/sd-loginthird/third/ssologin?username=zhxy_admin&timestamp=1697765009348&auid=A5AD9F87CF59805CECAF2A95D44CF6E
+https://121.196.159.47/sd-loginthird/third/ssologin?username=zhxy_admin&timestamp=1697765009348&auid=A5AD9F87CF59805CECAF2A95D44CF6E
+http://223.83.60.140:18080/sd-loginthird/third/ssologin?username=zhxy_admin&timestamp=1697765009348&auid=A5AD9F87CF59805CECAF2A95D44CF6E
+https://zz.wonedu.com/sd-loginthird/third/ssologin?username=zhxy_admin&timestamp=1697765009348&auid=A5AD9F87CF59805CECAF2A95D44CF6E
+http://ytsql.hsyuntai.com/sd-loginthird/third/ssologin?username=zhxy_admin&timestamp=1697765009348&auid=A5AD9F87CF59805CECAF2A95D44CF6E
